@@ -1,2 +1,2 @@
 # Django
-this is a NB itrm.
+this is a NB item.
